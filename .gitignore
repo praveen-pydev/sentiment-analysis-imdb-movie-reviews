@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE / Editor specific files
+.idea/
+.vscode/
+
+# Ignore zip files
+*.zip
+
+# Saved models & Data
+# Not ignored to ensure project is ready-to-run after cloning
+data/
+models/
